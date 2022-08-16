@@ -12,11 +12,22 @@
 - [Temporal Technologies](https://www.temporal.io/) (Company behind Temporal)
 
 # Clients
-- [Java](https://github.com/temporalio/java-sdk)
+## Official
 - [Golang](https://github.com/temporalio/go-sdk)
+- [Java](https://github.com/temporalio/java-sdk)
 - [PHP](https://github.com/temporalio/sdk-php)
+- [Python](https://github.com/temporalio/sdk-python)
+- [TypeScript](https://github.com/temporalio/sdk-typescript)
+
+## Experimental
+- [.NET](https://github.com/temporalio/sdk-dotnet)
+- [Rust](https://github.com/temporalio/sdk-core)
+- [Ruby](https://github.com/temporalio/sdk-ruby)
+
+## Third-party
+- [Scala](https://github.com/vitaliihonta/zio-temporal)
+- [Python](https://github.com/firdaus/temporal-python-sdk)
 - [Ruby](https://github.com/coinbase/temporal-ruby)
-- [Python](https://github.com/firdaus/temporal-python-sdk) (Unofficial)
 
 # Communities
 - [Temporal Slack](https://temporalio.slack.com/join/shared_invite/zt-c1e99p8g-beF7~ZZW2HP6gGStXD8Nuw#/)

@@ -29,13 +29,16 @@
 - [Python](https://github.com/firdaus/temporal-python-sdk)
 - [Ruby](https://github.com/coinbase/temporal-ruby)
 
+
+# Tools
+- [Temporal UI](https://github.com/temporalio/ui): Web UI used to view workflows, see what's running, and explore and debug workflow executions
+- [Temporal Web](https://github.com/temporalio/web): Previous version of the web UI, currently deprecated
+- [Temporalite](https://github.com/temporalio/temporalite): An experimental distribution of Temporal that runs as a single process
+
 # Communities
 - [Temporal Slack](https://temporalio.slack.com/join/shared_invite/zt-c1e99p8g-beF7~ZZW2HP6gGStXD8Nuw#/)
 - [Temporal tagged questions on Stackoverflow](https://stackoverflow.com/questions/tagged/temporal-workflow)
 - [Temporal Discussion Forum (Discourse)](https://community.temporal.io/)
-
-# Tools
-- [Temporal Web](https://github.com/temporalio/web) - This web UI is used to view workflows from [Temporalio](https://github.com/temporalio/temporal), see what's running, and explore and debug workflow executions.
 
 # Sample Code
 - [Temporal Golang DSL Sample](https://github.com/temporalio/go-samples/tree/master/dsl)
@@ -113,7 +116,6 @@
 - [Temporal Open Office Hours #1 (07/01/20)](https://www.youtube.com/watch?v=6daI-Oicux8)
 - [Temporal Open Office Hours #2 (08/26/20)](https://www.youtube.com/watch?v=gWjtjRavqWU)
 
-# Experimental
 
 # FAQs
 - [Temporal workflow vs Cadence Workflow](https://stackoverflow.com/questions/61157400/temporal-workflow-vs-cadence-workflow)
